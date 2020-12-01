@@ -4,7 +4,7 @@
 ## How To Run 
 - clone the project from Github.
   -  Git clone https://github.com/Rohit1204/social-media.git
-  - cd tutorbin
+  - cd socialmedia
 - Start virtual environment
   - pip install virtualenv
   - virtualenv env
